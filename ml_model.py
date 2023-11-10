@@ -11,4 +11,4 @@ def action1():
 def action2():
     print("Method for action2")
 
-print("Action 1 method is performing better")
+print("Action 2 method is performing better")
